@@ -11,6 +11,7 @@
   ],
   "dependencies": {
     "com.microsoft.mixedreality.toolkit.examples": "2.5.1",
+    "com.microsoft.mixedreality.toolkit.extensions": "2.5.1",
     "com.microsoft.mixedreality.toolkit.foundation": "2.5.1",
     "com.microsoft.mixedreality.toolkit.tools": "2.5.1",
     "com.unity.collab-proxy": "1.2.16",

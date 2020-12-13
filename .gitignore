@@ -92,3 +92,4 @@ Assets/MRTK/Providers/WindowsMixedReality/Shared/DotNetAdapter/.obj/
 
 !Assets/MixedRealityToolkit.Generated/ProjectPreferences.asset
 !Assets/MixedRealityToolkit.Generated/ProjectPreferences.asset.meta
+Assets/WSATestCertificate.pfx*
